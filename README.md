@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**andgram/andgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andreas Gramstad, a designer and front end developer passionate about transforming ideas in to dynamic digital experiences.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a digital designer, front-end developer, and image retoucher with a keen interest in design, user interface, and visual communication. I enjoy photography and writing in my free time and always look forward to exploring new design trends and technologies.
+
+## Skills
+
+- **Programming Languages**: [HTML, CSS, JavaScript]
+- **Web Development**: [Wordpress, Tailwind]
+- **Design Tools**: [Figma, Photoshop, After Effects]
+
+## Projects
+
+Here are a few projects I've worked on:
+
+1. [Rainy Days – jacket shop](https://github.com/andgram/andgram-cross-course.git) - This project is part of our study on HTML and CSS, where we've developed a fictional company's website.
+2. [Community Science Museum](https://github.com/andgram/SemesterProject1.git) - This web project was developed to create an engaging and user-friendly website for a fictional science museum.
+3. [WatchWise CMS](https://github.com/NoroffFEU/FED1-PE1-andgram.git) - WatchWise is a front-end user interface for a fictional blog and content management system (CMS) dedicated to watches. 
+
+Feel free to check them out!
+
+## Let's Connect
+
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/andreas-gramstad-416408253/)
+- **Personal Website/Blog**: [Your Website/Blog](Link)
+
+Don't hesitate to reach out! I'm always open to interesting conversations and collaborations.
+
+## Thanks for Visiting!
+
+Thanks for stopping by my GitHub profile. Feel free to explore my projects.
+
