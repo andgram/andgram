@@ -25,7 +25,7 @@ Feel free to check them out!
 ## Let's Connect
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/andreas-gramstad-416408253/)
-- **Portfolio Website**: [Your Website/Blog](Link)
+- **Portfolio Website**: [Portfolio Website](https://andgram.github.io/Portfolio1/)
 
 Don't hesitate to reach out! I'm always open to interesting conversations and collaborations.
 
