@@ -4,7 +4,7 @@ I'm Andreas Gramstad, a designer and front end developer passionate about transf
 
 ## About Me
 
-I'm a digital designer, front-end developer, and image retoucher with a keen interest in design, user interface, and visual communication. I enjoy photography and writing in my free time and always look forward to exploring new design trends and technologies.
+I'm a digital designer and front-end developer with a keen interest in design, user interface, and visual communication. I enjoy photography and writing in my free time and always look forward to exploring new design trends and technologies.
 
 ## Skills
 
@@ -25,7 +25,7 @@ Feel free to check them out!
 ## Let's Connect
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/andreas-gramstad-416408253/)
-- **Personal Website/Blog**: [Your Website/Blog](Link)
+- **Portfolio Website**: [Your Website/Blog](Link)
 
 Don't hesitate to reach out! I'm always open to interesting conversations and collaborations.
 
